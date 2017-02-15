@@ -4,8 +4,8 @@ import static ch.lambdaj.Lambda.having;
 import static ch.lambdaj.Lambda.on;
 import static ch.lambdaj.Lambda.selectFirst;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import com.google.code.regexp.Pattern;
+import com.google.code.regexp.Matcher;
 
 import org.hamcrest.Matchers;
 
@@ -87,7 +87,7 @@ public class EmojiUtils extends AbstractEmoji {
 	 * Common method used for processing the string to replace with emojis
 	 * 
 	 * @param text
-	 * @param regex
+	 * @param pattern
 	 * @return
 	 */
 	private static String processStringWithRegex(String text, Pattern pattern, int startIndex, boolean recurseEmojify) {

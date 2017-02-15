@@ -3,7 +3,7 @@ package emoji4j;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Pattern;
+import com.google.code.regexp.Pattern;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
@@ -81,7 +81,7 @@ public class EmojiManager {
 			if(sb.length() !=0) {
 				sb.append("|");
 			}
-			sb.append(Pattern.quote(emoticon));
+			sb.append(java.util.regex.Pattern.quote(emoticon));
 		}
 		
 		emoticonRegexPattern = Pattern.compile(sb.toString());

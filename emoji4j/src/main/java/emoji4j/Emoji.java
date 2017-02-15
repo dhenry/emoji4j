@@ -1,7 +1,7 @@
 package emoji4j;
 
 import java.util.List;
-import java.util.regex.Matcher;
+import com.google.code.regexp.Matcher;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

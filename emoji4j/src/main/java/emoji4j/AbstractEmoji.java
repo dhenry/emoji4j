@@ -1,6 +1,6 @@
 package emoji4j;
 
-import java.util.regex.Pattern;
+import com.google.code.regexp.Pattern;
 
 /**
  * 
