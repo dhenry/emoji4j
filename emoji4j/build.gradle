@@ -1,35 +1,12 @@
-apply plugin: 'com.android.library'
-
-android {
-    compileSdkVersion 25
-    buildToolsVersion "24.0.3"
-    defaultConfig {
-        minSdkVersion 15
-        targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-    }
-    dataBinding {
-        enabled = true
-    }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
-}
+apply plugin: 'java'
 
 dependencies {
-
     compile "com.fasterxml.jackson.core:jackson-core:2.7.4"
     compile "com.fasterxml.jackson.core:jackson-databind:2.7.4"
-    compile "com.googlecode.lambdaj:lambdaj:2.3.3"
     compile "com.github.tony19:named-regexp:0.2.4"
-
-    testCompile "junit:junit:4.12"
-    testCompile "org.assertj:assertj-core:3.3.0"
 }
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
 
 apply from: 'publish.gradle'

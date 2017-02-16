@@ -1,1 +1,1 @@
-include ':emoji4j'
+include ':sampleapp', ':emoji4j'

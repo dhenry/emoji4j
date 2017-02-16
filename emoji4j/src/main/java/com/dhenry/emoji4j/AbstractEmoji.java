@@ -1,4 +1,4 @@
-package emoji4j;
+package com.dhenry.emoji4j;
 
 import com.google.code.regexp.Pattern;
 

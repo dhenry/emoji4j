@@ -10,7 +10,7 @@ def libDesc = "Emoji4j 4 Android"
 def libTags = ['android', 'emoji']
 
 group = libGroup
-version = '1.0.0'
+version = '1.0.3'
 
 Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
@@ -66,7 +66,7 @@ install {
 }
 
 task sourcesJar(type: Jar) {
-    from android.sourceSets.main.java.srcDirs
+    from sourceSets.main.java.srcDirs
     classifier = 'sources'
 }
 

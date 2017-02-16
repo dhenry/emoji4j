@@ -1,12 +1,13 @@
-package emoji4j;
+package com.dhenry.emoji4j;
+
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.type.TypeFactory;
+import com.google.code.regexp.Pattern;
 
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import com.google.code.regexp.Pattern;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.type.TypeFactory;
 
 /**
  * Loads emojis from resource bundle
