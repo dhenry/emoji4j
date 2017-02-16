@@ -10,7 +10,7 @@ def libDesc = "Emoji4j 4 Android"
 def libTags = ['android', 'emoji']
 
 group = libGroup
-version = '1.0.3'
+version = '1.0.4'
 
 Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
