@@ -1227,7 +1227,7 @@
     "emoji": "🙈"
   , "description": "see-no-evil monkey"
   , "aliases": [
-      "see_no_evil"
+      "monkey"
     ]
   , "tags": [
       "monkey"
@@ -1239,7 +1239,7 @@
     "emoji": "🙉"
   , "description": "hear-no-evil monkey"
   , "aliases": [
-      "hear_no_evil"
+      "monkey"
     ]
   , "tags": [
       "monkey"
@@ -1250,7 +1250,7 @@
     "emoji": "🙊"
   , "description": "speak-no-evil monkey"
   , "aliases": [
-      "speak_no_evil"
+      "monkey"
     ]
   , "tags": [
       "monkey"
@@ -1274,7 +1274,7 @@
     "emoji": "👽"
   , "description": "extraterrestrial alien"
   , "aliases": [
-      "alien"
+      "alien shoes"
     ]
   , "tags": [
       "ufo"
@@ -1649,8 +1649,7 @@
     "emoji": "🏃"
   , "description": "runner"
   , "aliases": [
-      "runner"
-    , "running"
+      "running"
     ]
   , "tags": [
       "exercise"
@@ -1813,7 +1812,7 @@
     "emoji": "👰"
   , "description": "bride with veil"
   , "aliases": [
-      "bride_with_veil"
+      "wedding"
     ]
   , "tags": [
       "marriage"
@@ -1854,7 +1853,7 @@
     "emoji": "🎩"
   , "description": "top hat"
   , "aliases": [
-      "tophat"
+      "top hat"
     ]
   , "tags": [
       "hat"
@@ -1976,7 +1975,7 @@
     "emoji": "🎽"
   , "description": "running shirt with sash"
   , "aliases": [
-      "running_shirt_with_sash"
+      "running"
     ]
   , "tags": [
       "marathon"
@@ -2356,7 +2355,7 @@
     "emoji": "🐰"
   , "description": "rabbit face"
   , "aliases": [
-      "rabbit"
+      "bunny"
     ]
   , "tags": [
       "bunny"
@@ -2438,7 +2437,7 @@
     "emoji": "🐵"
   , "description": "monkey face"
   , "aliases": [
-      "monkey_face"
+      "monkey"
     ]
   , "tags": [
     ]
@@ -2483,7 +2482,7 @@
     "emoji": "🐼"
   , "description": "panda face"
   , "aliases": [
-      "panda_face"
+      "panda shoes"
     ]
   , "tags": [
     ]
@@ -3439,7 +3438,7 @@
     "emoji": "🎒"
   , "description": "school satchel"
   , "aliases": [
-      "school_satchel"
+      "satchel"
     ]
   , "tags": [
     ]
@@ -3538,7 +3537,7 @@
     "emoji": "🎄"
   , "description": "christmas tree"
   , "aliases": [
-      "christmas_tree"
+      "christmas"
     ]
   , "tags": [
     ]
@@ -4829,7 +4828,7 @@
     "emoji": "👾"
   , "description": "alien monster"
   , "aliases": [
-      "space_invader"
+      "alien clothes"
     ]
   , "tags": [
       "game"
@@ -4988,7 +4987,7 @@
     "emoji": "🚵"
   , "description": "mountain bicyclist"
   , "aliases": [
-      "mountain_bicyclist"
+      "cycling"
     ]
   , "tags": [
     ]
@@ -5056,7 +5055,7 @@
     "emoji": "🏊"
   , "description": "swimmer"
   , "aliases": [
-      "swimmer"
+      "swimming"
     ]
   , "tags": [
     ]
@@ -5065,7 +5064,7 @@
     "emoji": "🏄"
   , "description": "surfer"
   , "aliases": [
-      "surfer"
+      "surfing"
     ]
   , "tags": [
     ]
@@ -5850,7 +5849,7 @@
     "emoji": "🌄"
   , "description": "sunrise over mountains"
   , "aliases": [
-      "sunrise_over_mountains"
+      "hiking"
     ]
   , "tags": [
     ]
