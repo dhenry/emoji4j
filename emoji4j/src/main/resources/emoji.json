@@ -1936,8 +1936,7 @@
     "emoji": "👕"
   , "description": "t-shirt"
   , "aliases": [
-      "shirt"
-    , "tshirt"
+      "men's t-shirts"
     ]
   , "tags": [
     ]
@@ -1957,7 +1956,7 @@
     "emoji": "👚"
   , "description": "womans clothes"
   , "aliases": [
-      "womans_clothes"
+      "women's t-shirts"
     ]
   , "tags": [
     ]
@@ -2053,7 +2052,7 @@
     "emoji": "👓"
   , "description": "eyeglasses"
   , "aliases": [
-      "eyeglasses"
+      "sunglasses"
     ]
   , "tags": [
       "glasses"
@@ -2072,7 +2071,7 @@
     "emoji": "🌂"
   , "description": "closed umbrella"
   , "aliases": [
-      "closed_umbrella"
+      "umbrellas"
     ]
   , "tags": [
       "weather"
@@ -3336,7 +3335,7 @@
     "emoji": "☔"
   , "description": "umbrella with rain drops"
   , "aliases": [
-      "umbrella"
+      "umbrellas"
     ]
   , "tags": [
       "rain"
@@ -5037,7 +5036,7 @@
     "emoji": "🎿"
   , "description": "ski and ski boot"
   , "aliases": [
-      "ski"
+      "skiing"
     ]
   , "tags": [
     ]
@@ -5046,7 +5045,7 @@
     "emoji": "🏂"
   , "description": "snowboarder"
   , "aliases": [
-      "snowboarder"
+      "snowboarding"
     ]
   , "tags": [
     ]
@@ -5062,7 +5061,7 @@
   }
 , {
     "emoji": "🏄"
-  , "description": "surfer"
+  , "description": "surfing"
   , "aliases": [
       "surfing"
     ]
@@ -5143,7 +5142,7 @@
     "emoji": "🍸"
   , "description": "cocktail glass"
   , "aliases": [
-      "cocktail"
+      "cocktail dresses"
     ]
   , "tags": [
       "drink"
@@ -5231,7 +5230,7 @@
     "emoji": "🍝"
   , "description": "spaghetti"
   , "aliases": [
-      "spaghetti"
+      "spaghetti dresses"
     ]
   , "tags": [
       "pasta"
